@@ -24,7 +24,7 @@ RUN;
 PROC FREQ DATA=lab.healthcare_cleaned;
 RUN;
 
-/*CLEANING & PREPROCESSING (SALSABILA & ABDALLAH)*/
+/*CLEANING & PREPROCESSING*/
  
 /*1. HANDLE MISSING VALUES -------------------------------------------------------------------------------------------------*/
 
